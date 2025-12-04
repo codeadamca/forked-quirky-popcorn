@@ -1,4 +1,4 @@
-# Popcorn poppers
+# Popcorn Poppers
 
 A quirky popcorn poppers website.
 
